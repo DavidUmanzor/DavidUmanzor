@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there!
+### Computer Science Student at University of Central Florida
 
 <!--
 **Zarthanix/Zarthanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
