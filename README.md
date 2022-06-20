@@ -21,9 +21,18 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/david-umanzor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.buymeacoffee.com/Zarthanix">
+  </a>
   </div>
+  
+  <div id="coffee">
+  <img width="200" alt="bmc-button" src="https://user-images.githubusercontent.com/53411486/174636206-7eaadb27-ee37-427b-ab9a-44fe517e3ffc.png"/> <alt="Co-fee"/>
+  </div>
+  
   <img src="https://komarev.com/ghpvc/?username=Zarthanix&style=flat-square&color=blue" alt=""/>
+  
 </div>
+
 
 ---
 
