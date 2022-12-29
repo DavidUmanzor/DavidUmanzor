@@ -12,7 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm a junior computer science student working towards machine learning!
 
+<div id="intro">
+  <h4>
+My currently working on Chess AI and ASL AI as side projects to expand my knowledge in python and deep learning processes.
+
+I'm currently learning Advanced Data Structures and System Software in classes.
+  </h4>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
