@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I'm a sophomore computer science student working towards machine learning!
+Hello! I'm a sophomore computer science student specializing in machine learning!
 
 <div id="intro">
   <h4>
