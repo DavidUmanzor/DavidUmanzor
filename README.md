@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I'm a sophomore computer science student specializing in machine learning!
+Hello! I'm a junior computer science student specializing in machine learning!
 
 <div id="intro">
   <h4>
-I am currently working on my Front End development with React
+I am currently working on my Front End Development with React
 
-I'm currently learning Advanced Data Structures and System Software in classes.
+I'm currently learning Robot Vision, Artificial Intelligence, and Processes of Object Oriented Software Development in classes.
   </h4>
 </div>
 
