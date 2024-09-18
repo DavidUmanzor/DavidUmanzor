@@ -12,7 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I'm a junior computer science student specializing in machine learning!
+<div align="center" width="50">
+    <img alt="davidumanzor.com" src="./assets/oh hi there.png" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm David Umanzor</h1>
+
+![GitHub followers](https://img.shields.io/github/followers/DavidUmanzor?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/DavidUmanzor?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DavidUmanzor.repoName) <img src="https://komarev.com/ghpvc/?username=Zarthanix&style=flat-square&color=blue" alt=""/>
+
+## About Me :
+
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Machine Learning Engineer Co-Op** at [CAE USA Inc](https://www.cae.com/cae-usa/)
+- 🎓 Studies for Computer Science at [University of Central Florida](https://www.ucf.edu)
 
 <div id="intro">
   <h4>
@@ -22,25 +33,17 @@ I'm currently learning Robot Vision, Artificial Intelligence, and Processes of O
   </h4>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/david-umanzor/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.buymeacoffee.com/Zarthanix">
-  </a>
-  </div>
-  
-  <div id="coffee">
-  <img width="200" alt="bmc-button" src="https://user-images.githubusercontent.com/53411486/174636206-7eaadb27-ee37-427b-ab9a-44fe517e3ffc.png"/> <alt="Co-fee"/>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Zarthanix&style=flat-square&color=blue" alt=""/>
-  
-</div>
+<br>
 
+## Connect with me ☕ :
+
+<br>
+
+[![@David_Umanzor_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@DavidUmanzor")](https://www.instagram.com/David_Umanzor_/) 
+[![@DavidUmanzor](https://img.icons8.com/fluency/48/000000/linkedin.png "@DavidUmanzor")](https://www.linkedin.com/in/davidumanzor/) 
+[![@deumanzor0@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@deumanzor0@gmail.com")](deumanzor0@gmail.com)
+
+<br>
 
 ---
 
@@ -51,7 +54,18 @@ I'm currently learning Robot Vision, Artificial Intelligence, and Processes of O
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidUmanzor&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![DavidUmanzor GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidUmanzor&theme=algolia)](https://github.com/DavidUmanzor/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidUmanzor&theme=algolia)](https://github.com/DavidUmanzor/github-readme-stats)
+
+<br>
   
 <!--
 <div>
@@ -72,3 +86,13 @@ I'm currently learning Robot Vision, Artificial Intelligence, and Processes of O
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 -->
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidUmanzor)](https://github.com/DavidUmanzor/github-profile-trophy)
+
+<br>
+
+Last edited on: 09/17/2024
