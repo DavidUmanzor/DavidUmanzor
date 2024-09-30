@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 I am currently working as a **Undergraduate Researcher** at [University of Central Florida](https://www.ucf.edu)
 - 🏢 Former **Machine Learning Engineer Co-Op** at [CAE USA Inc](https://www.cae.com/cae-usa/)
 - 🎓 Studies for Computer Science at [University of Central Florida](https://www.ucf.edu)
 
