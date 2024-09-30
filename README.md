@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 <div id="intro">
   <h4>
-I am currently working on my Front End Development with React
-
-I'm currently learning Robot Vision, Artificial Intelligence, and Processes of Object Oriented Software Development in classes.
+    I am currently looking into Python work with Cronjobs as well as working on my development with backend systems
   </h4>
 </div>
 
