@@ -58,14 +58,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidUmanzor&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![DavidUmanzor GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidUmanzor&theme=algolia)](https://github.com/DavidUmanzor/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidUmanzor&theme=algolia)](https://github.com/DavidUmanzor/github-readme-stats)
-
-<br>
-  
 <!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -86,12 +78,3 @@ Here are some ideas to get you started:
 </div>
 -->
 
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidUmanzor)](https://github.com/DavidUmanzor/github-profile-trophy)
-
-<br>
-
-Last edited on: 09/17/2024
